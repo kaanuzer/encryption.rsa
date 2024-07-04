@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "in0gEe1b6JM+ouD+Y9654/E+yM+8OeNh9sQ0/HnCM8DXAKczGVbrxSI/vNbdqOtLxDGLRNHsyjqCTBMFH2G79Q==",
+  "success": true,
+  "projectFilePath": "/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/encryption.rsa.csproj",
+  "expectedPackageFiles": [
+    "/Users/kaanuzer/.nuget/packages/bouncycastle.netcore/2.2.1/bouncycastle.netcore.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

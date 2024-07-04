@@ -1,0 +1,14 @@
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/bin/Debug/net8.0/encrytion.rsa
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/bin/Debug/net8.0/encrytion.rsa.deps.json
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/bin/Debug/net8.0/encrytion.rsa.runtimeconfig.json
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/bin/Debug/net8.0/encrytion.rsa.dll
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/bin/Debug/net8.0/encrytion.rsa.pdb
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/encrytion.rsa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/encrytion.rsa.AssemblyInfoInputs.cache
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/encrytion.rsa.AssemblyInfo.cs
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/encrytion.rsa.csproj.CoreCompileInputs.cache
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/encrytion.rsa.dll
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/refint/encrytion.rsa.dll
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/encrytion.rsa.pdb
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/encrytion.rsa.genruntimeconfig.cache
+/Users/kaanuzer/Projects/encryption.rsa/encrytion.rsa/obj/Debug/net8.0/ref/encrytion.rsa.dll

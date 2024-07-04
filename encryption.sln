@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encrytion.rsa", "encrytion.rsa\encrytion.rsa.csproj", "{95D4B128-6B01-4DCD-9BA8-6DDBC403F516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encryption.rsa", "encryption.rsa\encryption.rsa.csproj", "{250C259D-184C-41FF-9DDE-259D6B54404B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D4B128-6B01-4DCD-9BA8-6DDBC403F516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D4B128-6B01-4DCD-9BA8-6DDBC403F516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D4B128-6B01-4DCD-9BA8-6DDBC403F516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D4B128-6B01-4DCD-9BA8-6DDBC403F516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250C259D-184C-41FF-9DDE-259D6B54404B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250C259D-184C-41FF-9DDE-259D6B54404B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250C259D-184C-41FF-9DDE-259D6B54404B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250C259D-184C-41FF-9DDE-259D6B54404B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

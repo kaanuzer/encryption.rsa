@@ -1,0 +1,17 @@
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encryption.rsa.csproj.AssemblyReference.cache
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encryption.rsa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encryption.rsa.AssemblyInfoInputs.cache
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encryption.rsa.AssemblyInfo.cs
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encryption.rsa.csproj.CoreCompileInputs.cache
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/bin/Debug/net8.0/encryption.rsa
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/bin/Debug/net8.0/encryption.rsa.deps.json
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/bin/Debug/net8.0/encryption.rsa.runtimeconfig.json
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/bin/Debug/net8.0/encryption.rsa.dll
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/bin/Debug/net8.0/encryption.rsa.pdb
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encrypti.24124DD4.Up2Date
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encryption.rsa.dll
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/refint/encryption.rsa.dll
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encryption.rsa.pdb
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/encryption.rsa.genruntimeconfig.cache
+/Users/kaanuzer/Projects/encryption.rsa/encryption.rsa/obj/Debug/net8.0/ref/encryption.rsa.dll
